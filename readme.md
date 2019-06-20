@@ -1,6 +1,5 @@
 # CodeIgniter Project Starter
 
-**ci-starter by Ale Mohamad**
 
 ## About the project
 
